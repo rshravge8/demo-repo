@@ -1,3 +1,3 @@
 # demo-repo
 Git repository
-Author - Raj Shravg
+Author - Raj Shravge
